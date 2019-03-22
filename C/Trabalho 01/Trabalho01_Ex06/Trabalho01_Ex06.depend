@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1494954867 source:c:\users\diiis\desktop\trabalho01_ex06\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<math.h>
+
+1495062448 source:e:\trabalho 01\trabalho01_ex06\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<math.h>
+

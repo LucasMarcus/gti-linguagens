@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1494973937 source:c:\users\diiis\desktop\trabalho01_ex10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<math.h>
+

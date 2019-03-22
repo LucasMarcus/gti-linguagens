@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1494975640 source:c:\users\diiis\desktop\trabalho 01\trabalho01_ex08 (erro)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<math.h>
+
